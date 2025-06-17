@@ -1,5 +1,4 @@
-<p> Nama Kelompok : Amalia Mafrudhoh, Ardita Rif'atul Umami, Najwa Abigail Putri Andrian, Sayyidah Rizqi Nafisah</p>
-<p>Link Manual Book : https://drive.google.com/file/d/1Bv_hwtJidNloKNLsxFmHgEcBB3RcM9-0/view?usp=sharing</p>
+<p> Kelompok 2</p>
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
